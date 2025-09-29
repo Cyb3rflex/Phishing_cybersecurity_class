@@ -29,7 +29,7 @@ pip3 install --user -r requirements.txt
 
 ```bash
    python3 setoolkit
-'''
+```
 
 - or, to install system-wide:
 

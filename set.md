@@ -38,3 +38,24 @@ sudo python3 setup.py install
 ```
 
 TrustedSec’s GitHub README and the vendor page show the same approach. 
+
+# Running
+
+Once installed, 
+
+- launch:
+  
+```bash
+sudo setoolkit   # if installed system-wide
+# or
+python3 setoolkit  # from cloned folder (no sudo unless needed)
+```
+
+You’ll get the SET menu (Social-Engineering Attacks, Website Attack Vectors, etc.). 
+
+# Quick security/ethics note
+
+Use SET only on systems and networks you own or have explicit written permission to test. Unauthorized use is illegal. 
+
+# Author 
+Cyberflex 
